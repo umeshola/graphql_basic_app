@@ -6,7 +6,7 @@ This project is built using GraphQL and React.
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/umeshola/graphql_basic_app.git
 2. **cd todogql**
 3. **npm install**
 4. **node index.js**
