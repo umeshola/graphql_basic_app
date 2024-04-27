@@ -1,10 +1,15 @@
-this is made with graphQL and react
-IF YOU WANT TO RUN IT
-first clone 
-cd into todogql
-npm i
-node index.js or nodemon index
-into another termainl
-cd client
-npm i
-npm run dev
+# TodoGQL
+
+This project is built using GraphQL and React.
+
+## How to Run
+
+1. **Clone the Repository:**
+   ```bash
+   git clone <repository_url>
+2. **cd todogql**
+3. **npm install**
+4. **node index.js**
+5. **cd client**
+6. **npm install**
+7. **npm run dev**
